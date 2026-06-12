@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/saptaparni-dey" target="_blank">
+  <a href="https://www.linkedin.com/in/saptaparni-dey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
