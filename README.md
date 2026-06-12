@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/saptaparni-dey" target="_blank">
+  <a href="https://linkedin.com/in/saptaparnidey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -29,24 +29,24 @@
     <img src="https://img.shields.io/badge/Email-Reach%20Out-7B2FBE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/saptaparni-dey" target="_blank">
+  <a href="https://github.com/saptaparnidey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-5C3D99?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saptaparni-dey&style=flat-square&color=6A0DAD&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=saptaparnidey&style=flat-square&color=6A0DAD&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/saptaparni-dey?style=flat-square&color=4B0082&label=Followers&logo=github"/>
+  <img src="https://img.shields.io/github/followers/saptaparnidey?style=flat-square&color=4B0082&label=Followers&logo=github"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/saptaparni-dey?style=flat-square&color=7B2FBE&label=Stars&logo=github"/>
+  <img src="https://img.shields.io/github/stars/saptaparnidey?style=flat-square&color=7B2FBE&label=Stars&logo=github"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptaparni-dey&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117"/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptaparnidey&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117"/>
 
 I am a **Senior Software Engineer** with over **10 years of backend engineering experience**, currently at **Jio Platforms Limited (AJIO)** — one of India's largest fashion e-commerce platforms. My work focuses on designing and owning production microservices that handle fulfilment, shipment orchestration, and reverse logistics at national scale.
 
@@ -362,7 +362,7 @@ Business analysis, functional testing, and early application development across 
 ## 🧩 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/saptaparni-dey" target="_blank">
+  <a href="https://leetcode.com/saptaparnidey" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
@@ -384,13 +384,13 @@ Business analysis, functional testing, and early application development across 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saptaparni-dey&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saptaparnidey&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptaparni-dey&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptaparnidey&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptaparni-dey&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=6A0DAD&fire=7B2FBE&currStreakLabel=8B5CF6&background=0d1117&sideLabels=c9d1d9&dates=8892b0" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptaparnidey&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=6A0DAD&fire=7B2FBE&currStreakLabel=8B5CF6&background=0d1117&sideLabels=c9d1d9&dates=8892b0" width="70%"/>
 </p>
 
 ---
@@ -398,7 +398,7 @@ Business analysis, functional testing, and early application development across 
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saptaparni-dey&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saptaparnidey&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
 </p>
 
 ---
@@ -406,7 +406,7 @@ Business analysis, functional testing, and early application development across 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saptaparni-dey&theme=tokyo-night&hide_border=true&area=true&area_color=6A0DAD&line=8B5CF6&point=7B2FBE&color=c9d1d9&bg_color=0d1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saptaparnidey&theme=tokyo-night&hide_border=true&area=true&area_color=6A0DAD&line=8B5CF6&point=7B2FBE&color=c9d1d9&bg_color=0d1117" width="100%"/>
 </p>
 
 ---
@@ -415,9 +415,9 @@ Business analysis, functional testing, and early application development across 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saptaparni-dey/saptaparni-dey/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saptaparni-dey/saptaparni-dey/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/saptaparni-dey/saptaparni-dey/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saptaparnidey/saptaparnidey/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saptaparnidey/saptaparnidey/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/saptaparnidey/saptaparnidey/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </p>
 
@@ -464,11 +464,11 @@ current_focus:
     <img src="https://img.shields.io/badge/Gmail-Write%20to%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/saptaparni-dey" target="_blank">
+  <a href="https://linkedin.com/in/saptaparnidey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/saptaparni-dey" target="_blank">
+  <a href="https://github.com/saptaparnidey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
